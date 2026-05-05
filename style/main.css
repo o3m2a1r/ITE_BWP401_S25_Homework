@@ -1,0 +1,17 @@
+﻿body
+{
+    text-align:right
+}
+h2
+{
+    background-image: url(images/logo.jpg);
+    padding: 4px;
+}
+h3
+{
+    text-align:center
+}
+a
+{
+    padding: 4px;   
+}
