@@ -9,9 +9,18 @@ h2
 }
 h3
 {
-    text-align:center
+    text-align:center;
 }
 a
 {
     padding: 4px;   
+}
+img
+{
+width: 200px;
+height: 200px;    
+}
+ul
+{
+    list-style-type: none;
 }
